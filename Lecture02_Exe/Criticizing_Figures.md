@@ -91,4 +91,46 @@ Lastly, there is an attempt to have a grid in the graph, but it is barely discer
 A graph like this would provide clearer representation of the data, making the comparison between the two countries easier, by keeping the scale in both axes steady, while the grid inside the graph helps read any point in it.
 
 
+### Checklist Application for All Graphs
+
+Here is the application of the given checklist for the presented graphs. '-' indicates that the sentence is not applicable to the specific graphical representation.
+
+|    Category   |   Criterion   |   BananaBad   |   BananaGood   |    GunDeathsBad   |   GunDeathsGood   |    Covid19Bad   |   Covid19Good   |
+|    :---       |   :---        |   :---:       |   :---:        |    :---:          |   :---:           |    :---:        |   :---:         |
+| **Data**               | The type of the graphic is adapted to the nature of data                                  | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ |
+|                        | Approximations/interpolation make sense                                                   | - | ✓ | ✓ | ✓ | ✓ | ✓ |
+|                        | Curves are defined by a sufficient number of points                                       | - | ✓ | ✓ | ✓ | ✓ | ✓ |
+|                        | The building method of the curve is clear : interpolation                                 | - | ✓ | ✓ | ✓ | ✓ | ✓ |
+|                        | Confidence intervals are visualized (or given separately)                                 | - | - | - | - | - | - |
+|                        | Steps of histograms are adequate                                                          | - | - | - | - | - | - |
+|                        | Histograms visualize probabilities (from 0 to 1).                                         | - | - | - | - | - | - |
+| **Graphic Object**     | Graphical objects are readable on screen, on printed version (B/W), on video...           | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ |
+|                        | Graphic range is standard, without too similar colors, without green (video)              | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ |
+|                        | Graphical axis are well identified and labelled                                           | ✗ | ✓ | ✗ | ✗ | ✗ | ✓ |
+|                        | Scales and units are explicits                                                            | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ |
+|                        | Curves cross without ambiguity                                                            | - | - | - | ✓ | ✓ | ✓ |
+|                        | Grids help the reader                                                                     | ✗ | ✓ | ✗ | ✓ | ✓ | ✓ |
+| **Annotations**        | Axis are labelled by quantities                                                           | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ |
+|                        | Labels of the axis are clear, and self contained                                          | ✗ | ✓ | ✗ | ✓ | ✓ | ✓ |
+|                        | Units are indicated on the axis                                                           | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
+|                        | Axes are oriented from the left to the right and from the bottom to the top               | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ |
+|                        | Origin is (0, 0), if not it should be clearly justified                                   | ✓ | ✓ | ✗ | ✓ | ✗ | ✓ |
+|                        | No hole on the axes.                                                                      | ✓ | ✓ | ✓ | ✓ | ✗ | ✓ |
+|                        | For bar graphs/histograms order of bars is based on classical ordering                    | ✗ | - | - | - | - | - |
+|                        | Each curve has a legend                                                                   | - | ✓ | ✗ | ✓ | ✓ | ✓ |
+|                        | Each bar has a legend                                                                     | ✓ | - | - | - | - | - |
+| **Information**        | Curves are on the same scale                                                              | - | ✓ | - | ✓ | ✓ | ✓ |
+|                        | The number of curves on a same graph is small (less than 6)                               | - | ✓ | ✓ | ✓ | ✓ | ✓ |
+|                        | Compare curves on a same graphic                                                          | - | ✓ | - | ✓ | ✓ | ✓ |
+|                        | A curve cannot be removed without reducing the information                                | - | ✓ | ✓ | ✓ | ✓ | ✓ |
+|                        | The graphic gives a relevant information to the reader                                    | ✗ | ✓ | ✗ | ✓ | ✓ | ✓ |
+|                        | If the vertical axis shows averages, it should indicates error bars                       | - | - | - | - | - | - |
+|                        | It is not possible to remove any objet without modifying the readability of the graphic.  | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| **Context**            | All the symbols are defined and referenced in the text                                    | - | - | - | - | - | - |
+|                        | The graphic produces more information than any other representation                       | ✗ | ✓ | ✗ | ✓ | ✗ | ✓ |
+|                        | The graphic has a title                                                                   | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+|                        | The title is sufficiently self contained to partially understand the graphic              | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+|                        | The graphic is referenced in the text                                                     | - | - | - | - | - | - |
+|                        | The text comments the figure.                                                             | - | - | - | - | - | - |
+| **Last but not least** | The graphical representation should be elegant                                            | ✗ | ✓ | ✗ | ✓ | ✗ | ✓ |
 
