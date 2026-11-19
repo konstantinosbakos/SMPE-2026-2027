@@ -91,7 +91,7 @@ Lastly, there is an attempt to have a grid in the graph, but it is barely discer
 A graph like this would provide clearer representation of the data, making the comparison between the two countries easier, by keeping the scale in both axes steady, while the grid inside the graph helps read any point in it.
 
 
-### Checklist Application for All Graphs
+## Checklist Application for All Graphs
 
 Here is the application of the given checklist for the presented graphs. '-' indicates that the sentence is not applicable to the specific graphical representation.
 
